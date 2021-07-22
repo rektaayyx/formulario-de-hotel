@@ -1,0 +1,18 @@
+.hotelTitulo:hover{
+  color: black;
+  text-align: center;
+  background: gray
+}
+.hotelTitulo{
+  color: black;
+  text-align: center;
+  background: #eee;
+  border:solid 3px #aaa;
+  transition: 0.45s;
+}
+.formulario{
+    margin: 15px;
+}
+#botao{
+  float:right;
+}
